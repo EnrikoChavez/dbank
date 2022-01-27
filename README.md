@@ -1,5 +1,5 @@
 # dbank
-learning dapps,
+learning dapps, \n
 ran using Gananche network,
 deployed smart contracts using truffle suit,
 deployed website locally with npm
