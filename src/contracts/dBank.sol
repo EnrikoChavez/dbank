@@ -46,7 +46,7 @@ contract dBank {
     //check user's hodl time
     uint depositTime = block.timestamp - depositStart[msg.sender];
     //calc interest per second
-    uint interestPerSecond = 31668017 * (userBalance / 1e16);
+    uint interestPerSecond = 3166801700000 * (userBalance / 1e16);
     //calc accrued interest
     uint interest = interestPerSecond * depositTime;
     //send eth to user
