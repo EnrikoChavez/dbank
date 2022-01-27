@@ -79,7 +79,6 @@ contract dBank {
   function payOff() public {
     //check if loan is active
     //transfer tokens from user back to the contract
-
     //calc fee
 
     //send user's collateral minus fee
