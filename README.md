@@ -1,5 +1,5 @@
 # dbank
-learning dapps from https://www.youtube.com/watch?v=xWFba_9QYmc&ab_channel=DappUniversity: <br /> <br />
+learning dapps from https://www.youtube.com/watch?v=xWFba_9QYmc&ab_channel=DappUniversity: <br />
 This repository is able to deploy a new ERC_20 standard token into an ethereum blockchain, and a smart contract (dbank) into the blockchain as well. <br />
 The repo also can run the front end to interact with the deployed contracts. <br />
 
