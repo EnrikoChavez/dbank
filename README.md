@@ -9,7 +9,7 @@ The repo also can also be used to run the front end to interact with the deploye
 
 The purpose of this repo is to be able to gain a new token (DBC: Decentralized Bank Token) by keeping ethereum locked up on a smart contract inside a blockchain. The more ethereum is locked up per unit time, the more DBC token is minted and given to the user per unit time once the user withdraws the ethereum from the dbank contract. <br /> <br />
 
-What I learned: Web3, Solidity, ethereum devvelopment frameworks and tools <br /><br />
+What I learned: Web3, Solidity, ethereum development frameworks and tools <br /><br />
 
   ran using Gananche network, <br />
   deployed smart contracts using truffle suit, <br />
