@@ -8,5 +8,7 @@ The purpose of this repo is to be able to gain a new token (DBC: Decentralized B
   ran using Gananche network, <br />
   deployed smart contracts using truffle suit, <br />
   deployed website locally with npm <br />
+  
+Example homescreen: <br />  
 
 ![alt text](https://github.com/EnrikoChavez/dbank/blob/master/_example_image_homescreen.png?raw=true)
